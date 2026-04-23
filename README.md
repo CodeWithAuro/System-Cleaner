@@ -8,4 +8,4 @@ A simple technical tool to bridge Python and Bash.
 
 ### How to Run
 ```bash
-python3 systemCleaner.py
+python3 cleaner.py
